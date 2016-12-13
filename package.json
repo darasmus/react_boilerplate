@@ -1,10 +1,10 @@
 {
-  "name": "cellular-react-boilerplate",
+  "name": "react-boilerplate",
   "version": "0.0.1",
-  "description": "cellular-react-boilerplate",
+  "description": "react-boilerplate",
   "repository": {
     "type": "git",
-    "url": "gitlab@git.cellular.de:web/cellular_react_boilerplate.git"
+    "url": "https://github.com/darasmus/react_boilerplate.git"
   },
   "author": [
     "darasmus <darasmus@cellular.de>",
