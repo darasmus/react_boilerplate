@@ -1,4 +1,4 @@
-# CELLULAR React Boilerplate
+# React Boilerplate
 
 ## Requirments
 - npm
